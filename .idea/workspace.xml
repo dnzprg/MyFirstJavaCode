@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="084c1e32-6ebb-4707-a1a4-eccd55e56453" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFirstJavaCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IfElseKosulDemosu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LoopDonguDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operatorler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operatorler2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperatorlerOdev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchCaseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VeriTipleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VeriTipleriOdev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switchCaseOdev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/İlkString.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mIqy6RottvurcHA0wCAe14gWyw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayDemo.executor": "Run",
+    "Application.IfElseKosulDemosu.executor": "Run",
+    "Application.Lesson1_PrintHello.executor": "Run",
+    "Application.LoopDonguDemo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Operatorler.executor": "Run",
+    "Application.Operatorler2.executor": "Run",
+    "Application.OperatorlerOdev.executor": "Run",
+    "Application.SwitchCaseDemo.executor": "Run",
+    "Application.VeriTipleri.executor": "Run",
+    "Application.VeriTipleriOdev.executor": "Run",
+    "Application.switchCaseOdev.executor": "Run",
+    "Application.İlkString.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/ornekler/MyFirstJavaCode/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.LoopDonguDemo">
+    <configuration name="IfElseKosulDemosu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfElseKosulDemosu" />
+      <module name="MyFirstJavaCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopDonguDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopDonguDemo" />
+      <module name="MyFirstJavaCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorlerOdev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatorlerOdev" />
+      <module name="MyFirstJavaCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchCaseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchCaseDemo" />
+      <module name="MyFirstJavaCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="switchCaseOdev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="switchCaseOdev" />
+      <module name="MyFirstJavaCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoopDonguDemo" />
+        <item itemvalue="Application.switchCaseOdev" />
+        <item itemvalue="Application.SwitchCaseDemo" />
+        <item itemvalue="Application.IfElseKosulDemosu" />
+        <item itemvalue="Application.OperatorlerOdev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="084c1e32-6ebb-4707-a1a4-eccd55e56453" name="Changes" comment="" />
+      <created>1726774693081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726774693081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/İlkString.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LoopDonguDemo.java</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
